@@ -1,0 +1,21 @@
+body {
+    background-color: royalblue;
+    
+}
+
+#output {
+    background: crimson;
+    border-radius: 10px;
+    border-top: 10px solid #ff2e4c;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#one {
+    background: #ffca43;
+}
+
+#two {
+    background: #ffca43;
+}
